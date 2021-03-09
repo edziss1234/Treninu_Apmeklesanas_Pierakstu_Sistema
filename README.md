@@ -1,2 +1,2 @@
 # Treninu apmeklesanas pierakstu sistema: 
-Majaslapa, kas lauj pierakstities uz treniniem.
+Majaslapa, kas lauj pierakstities uz treniniem..
