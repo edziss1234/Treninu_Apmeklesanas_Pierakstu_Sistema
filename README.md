@@ -1,1 +1,2 @@
-# Treninu_Apmeklesanas_Pierakstu_Sistema
+# Treninu apmeklesanas pierakstu sistema:
+Majaslapa, kas lauj pierakstities uz treniniem.
